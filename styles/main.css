@@ -33,9 +33,11 @@ h1 {
 }
 
 h2 {
-    border-bottom: 0.1em solid #66D7D1;
-    padding: 0.25em;
-    margin: 1.6em 0;
+    font-style: italic;
+    border-bottom: 0.1em solid #2d5c59;
+    padding: 0.5em;
+    margin: 1.2em 0;
+    color: #1e1084;
 }
 
 section p {
@@ -43,7 +45,7 @@ section p {
 }
 
 .project {
-    background-color: #403D58;
+    background-color: #456144;
     color: #F2EFEA;
     padding: 0.5em 2em;
     border-radius: 0.5em;
@@ -51,7 +53,7 @@ section p {
 }
 
 .project h3 {
-    color: #DBD563;
+    color: #d08ef9;
     margin-top: 1rem;
     margin-left: 2em;
     margin-right: 2em;
